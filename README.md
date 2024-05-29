@@ -1,5 +1,5 @@
 <h1>About me<h1>
-´´´javascript
+```javascript
 function main() {
     let name = 'Kayke Celli (@kaykecelli)';
     let title = 'Game Developer';
@@ -7,7 +7,7 @@ function main() {
     let education = 'C# student seeking opportunities';
 }
 main();
-´´´
+```
 
 
 <a href="https://github.com/Gurupreet">
