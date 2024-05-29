@@ -1,5 +1,5 @@
 <h1>About me<h1>
-´´´
+´´´javascript
 function main() {
     let name = 'Kayke Celli (@kaykecelli)';
     let title = 'Game Developer';
