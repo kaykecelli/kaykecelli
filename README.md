@@ -1,5 +1,6 @@
 <h1>About me<h1>
 
+```C#
 using System;
 
 class Program
@@ -12,7 +13,7 @@ class Program
         string education = "C# student seeking opportunities";
     }
 }
-
+```
 
 <a href="https://github.com/Gurupreet">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kaykecelli&theme=merko&show_icons=true&hide_border=true&count_private=true" alt="kaykecelli github stats"/>
