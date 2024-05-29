@@ -1,14 +1,17 @@
 <h1>About me<h1>
 
-```javascript
-function main() {
-    let name = 'Kayke Celli (@kaykecelli)';
-    let title = 'Game Developer';
-    let location = 'São Paulo';
-    let education = 'C# student seeking opportunities';
+using System;
+
+class Program
+{
+    static void Main()
+    {
+        string name = "Kayke Celli (@Kayke Celli)";
+        string title = "Game Developer";
+        string location = "São Paulo";
+        string education = "C# student seeking opportunities";
+    }
 }
-main();
-```
 
 
 <a href="https://github.com/Gurupreet">
